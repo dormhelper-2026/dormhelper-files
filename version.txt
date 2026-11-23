@@ -1,1 +1,1 @@
-{"latest":"3.5.4","versionName":"3.5.4","downloadUrl":"https://aka.doubaocdn.com/s/9SNGuOzNr5","mode":"native","force":false,"notes":"3.5.4 分解保底版：仓库物品按原价值 50% 分解成星币，计算不足 5 星币的统一按 5 星币回收。"}
+{"latest":"3.5.5","versionName":"3.5.5","downloadUrl":"https://aka.doubaocdn.com/s/BhKcRf4EKu","mode":"native","force":false,"notes":"3.5.5 更新加载版：手动点「检查更新」后先显示加载页面，收到版本信息后才结束并弹出结果。"}
