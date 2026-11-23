@@ -1,1 +1,1 @@
-{"latest":"3.4.0","versionName":"3.4.0","downloadUrl":"https://aka.doubaocdn.com/s/BUURnPUWAF","mode":"native","force":false,"notes":"3.4.0 非强制更新：音乐从个人设置独立成「音乐快捷栏」，集中放播放/暂停、进度、音量、歌单管理；灵动岛收起状态可直接上一首/下一首，展开后还有完整播放控制与歌单入口。"}
+{"latest":"3.5.0","versionName":"3.5.0","downloadUrl":"https://aka.doubaocdn.com/s/TtagveoVtE","mode":"native","force":false,"notes":"3.5.0 存储迁移版：远程版本检查、邮件和内置音乐已从停用的阿里云 OSS 迁出；音乐走豆包 CDN，版本与邮件走 GitHub/jsDelivr 并带备用源。"}
