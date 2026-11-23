@@ -1,8 +1,8 @@
 {
-  "latest": "3.5.9",
-  "versionName": "3.5.9",
-  "downloadUrl": "https://aka.doubaocdn.com/s/8o84v7Dpsx",
+  "latest": "3.5.10",
+  "versionName": "3.5.10",
+  "downloadUrl": "https://aka.doubaocdn.com/s/wbgUJUgd03",
   "mode": "native",
   "force": false,
-  "notes": "3.5.9 P2P 直连版：联机优先 WebRTC 点对点直连，失败自动回中继；默认 MQTT 节点改为国内优先。"
+  "notes": "3.5.10 邮件歌保护版：清空导入只清手动导入，内置和邮件歌曲保留；3.5.9 的 P2P 直连一并保留。"
 }
