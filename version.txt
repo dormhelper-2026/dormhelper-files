@@ -1,1 +1,1 @@
-{"latest":"3.5.1","versionName":"3.5.1","downloadUrl":"https://aka.doubaocdn.com/s/SIVQE9jHiQ","mode":"native","force":false,"notes":"3.5.1 补偿版：全员发放 100 星币、星穹卡体验 1 天、全付费背景体验 1 天、抽奖券 1 张；并定向为韩奕辰发放 1 张 30 天星穹卡。"}
+{"latest":"3.5.1","versionName":"3.5.1","downloadUrl":"https://aka.doubaocdn.com/s/rLvDucykPB","mode":"native","force":false,"notes":"3.5.1 补偿版：全员发放 100 星币、星穹卡体验 1 天、全付费背景体验 1 天、抽奖券 1 张；并定向为韩奕辰发放 1 张 30 天星穹卡。"}
