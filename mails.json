@@ -192,6 +192,33 @@
       "to": [
         "韩奕辰_2-2"
       ]
+    },
+    {
+      "id": "m20261123-vivo-music-3tracks",
+      "title": "🎵 歌单更新 · 小半 / 一点点 / 离人赋",
+      "body": "三首歌已经加入内置歌单，打开音乐页即可看到。<br><br><b>小半</b> · 陈粒<br><b>一点点（星星摇停顿版）</b> · 阿黛<br><b>离人赋（金戈铁马身披麒麟甲）</b> · 耳麦布响、阿也<br><br>想离线听，点歌曲右侧的 <b>⬇ 下载到本地</b>，下载完断网也能播放。<br><br><span style=\"color:#7fb2ff\">本邮件无需领取，收到后自动生效。</span>",
+      "ts": 1795439676870,
+      "to": [
+        "*"
+      ],
+      "minVC": 356,
+      "musicTracks": [
+        {
+          "name": "小半",
+          "artist": "陈粒",
+          "url": "https://gcore.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/music/xiaoban.mp3"
+        },
+        {
+          "name": "一点点（星星摇停顿版）",
+          "artist": "阿黛",
+          "url": "https://gcore.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/music/yidiandian.mp3"
+        },
+        {
+          "name": "离人赋（金戈铁马身披麒麟甲）",
+          "artist": "耳麦布响、阿也",
+          "url": "https://gcore.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/music/lirenfu.mp3"
+        }
+      ]
     }
   ]
 }
