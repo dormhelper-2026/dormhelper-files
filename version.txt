@@ -1,1 +1,1 @@
-{"latest":"3.5.3","versionName":"3.5.3","downloadUrl":"https://aka.doubaocdn.com/s/s7qeeykcbg","mode":"native","force":false,"notes":"3.5.3 仓库分解版：仓库物品新增「分解」，按物品价值 50% 折算成星币；星穹卡、抽奖券、背景体验卡均支持分解（不足 1 星币的短时体验卡除外）。"}
+{"latest":"3.5.4","versionName":"3.5.4","downloadUrl":"https://aka.doubaocdn.com/s/9SNGuOzNr5","mode":"native","force":false,"notes":"3.5.4 分解保底版：仓库物品按原价值 50% 分解成星币，计算不足 5 星币的统一按 5 星币回收。"}
