@@ -1,1 +1,1 @@
-{"latest":"3.7.0","versionName":"3.7.0","downloadUrl":"https://aka.doubaocdn.com/s/iAsYe7RgvD","mode":"native","force":false,"notes":"3.7.0 头像版：个人设置新增头像，可导入照片更换；初始为半身像，头像按账号独立保存。"}
+{"latest":"3.7.1","versionName":"3.7.1","downloadUrl":"https://aka.doubaocdn.com/s/81JDO4qUc3","mode":"native","force":false,"notes":"3.7.1 圆形头像版：导入照片时真正裁成圆形，四角透明；初始仍是半身像。"}
