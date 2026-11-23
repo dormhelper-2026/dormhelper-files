@@ -1,0 +1,8 @@
+{
+  "latest": "3.5.9",
+  "versionName": "3.5.9",
+  "downloadUrl": "https://aka.doubaocdn.com/s/8o84v7Dpsx",
+  "mode": "native",
+  "force": false,
+  "notes": "3.5.9 P2P 直连版：联机优先 WebRTC 点对点直连，失败自动回中继；默认 MQTT 节点改为国内优先。"
+}
