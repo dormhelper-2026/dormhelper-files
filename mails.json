@@ -1,6 +1,33 @@
 {
   "mails": [
     {
+      "id": "m20261123-hyc-compensation-cosmos",
+      "title": "🌌 定向发放 · 星穹卡 1 张",
+      "body": "这是一封发给 <b>韩奕辰</b> 的定向邮件。<br><br>本次向你发放 <b>1 张星穹卡</b>，权限时长 <b>30 天</b>。<br><br>接收后自动到账，无需手动领取；如果当前已有更长的星穹卡时间，会在原有时长上保留较长的那个，不会覆盖缩短。<br><br><span style=\"color:#7fb2ff\">发放编号：HYC-GRANT-COSMOS-20261123</span>",
+      "ts": 1795429547081,
+      "grantCard": "cosmos",
+      "grantCardDays": 30,
+      "to": [
+        "韩奕辰_2-2"
+      ],
+      "minVC": 351
+    },
+    {
+      "id": "m20261123-storage-migration-compensation",
+      "title": "🎁 版本迁移补偿 · 全员发放",
+      "body": "各位室友：<br><br>本次远程存储迁移给大家带来了一些不便，现发放全员补偿：<br><br>💰 <b>100 星币</b>（点下方「领取 100 星币」到账）<br>🌌 <b>星穹卡体验 1 天</b>（自动到账）<br>🎨 <b>全付费背景体验 1 天</b>（自动生效）<br>🎟️ <b>抽奖券 1 张</b>（自动到账）<br><br>星穹卡和背景体验均从接收邮件时开始计时；已有更长权限的不会被缩短。<br><br><span style=\"color:#7fb2ff\">补偿编号：MIGRATION-COMP-20261123</span>",
+      "ts": 1795429547082,
+      "coins": 100,
+      "grantCard": "cosmos",
+      "grantCardDays": 1,
+      "tickets": 1,
+      "themeTrialDays": 1,
+      "to": [
+        "*"
+      ],
+      "minVC": 351
+    },
+    {
       "id": "m20261123-hyc-revoke-cosmos-updatefix",
       "title": "🌌 定向调整 · 收回 1 张星穹卡权限",
       "body": "这是一封发给 <b>韩奕辰</b> 的定向邮件。<br><br><b>调整原因：</b>版本更新过程中出现异常，导致 1 张「星穹卡」权限被异常发放。现收回该张星穹卡的 30 天权限时间。<br><br>本次仅回收 1 张星穹卡，不影响其它已正常发放的权益。<br><br>本操作接收后自动执行，无需手动领取。<br><br><span style=\"color:#7fb2ff\">调整编号：HYC-REVOKE-COSMOS-20261123</span>",
