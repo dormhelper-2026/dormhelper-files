@@ -1,8 +1,8 @@
 {
-  "latest": "3.6.0",
-  "versionName": "3.6.0",
-  "downloadUrl": "https://aka.doubaocdn.com/s/R8tjhgjKed",
+  "latest": "3.6.1",
+  "versionName": "3.6.1",
+  "downloadUrl": "https://aka.doubaocdn.com/s/286YlVj55C",
   "mode": "native",
   "force": false,
-  "notes": "3.6.0 邮件歌保护版：清空导入只清手动导入，邮件歌不显示 ×、不能单删；保留 3.5.9 的 P2P 直连。"
+  "notes": "3.6.1 圣愈师索敌修正：近战不再对着飞空的圣愈师挥空，会先攻击前方地面兵；远程仍优先锁定圣愈师。"
 }
