@@ -1,1 +1,1 @@
-{"latest":"3.5.5","versionName":"3.5.5","downloadUrl":"https://aka.doubaocdn.com/s/BhKcRf4EKu","mode":"native","force":false,"notes":"3.5.5 更新加载版：手动点「检查更新」后先显示加载页面，收到版本信息后才结束并弹出结果。"}
+{"latest":"3.5.6","versionName":"3.5.6","downloadUrl":"https://aka.doubaocdn.com/s/0XVzQB2wUU","mode":"native","force":false,"notes":"3.5.6 离线音乐版：删除内嵌《小半》，APK 缩小到约 1.1MB；远程歌曲新增「⬇ 下载到本地」，下载后断网可听；邮件新增音乐曲目字段，可推送歌名/歌手/CDN 链接到歌单。"}
