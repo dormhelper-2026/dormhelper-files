@@ -1,1 +1,1 @@
-{"latest":"3.5.6","versionName":"3.5.6","downloadUrl":"https://aka.doubaocdn.com/s/0XVzQB2wUU","mode":"native","force":false,"notes":"3.5.6 离线音乐版：删除内嵌《小半》，APK 缩小到约 1.1MB；远程歌曲新增「⬇ 下载到本地」，下载后断网可听；邮件新增音乐曲目字段，可推送歌名/歌手/CDN 链接到歌单。"}
+{"latest":"3.5.8","versionName":"3.5.8","downloadUrl":"https://aka.doubaocdn.com/s/xkvGRluWZw","mode":"native","force":false,"notes":"3.5.8 修正版：歌单统计改为「5 内置 · 3 邮件」；小时卡分解按实际时长折算（星穹12小时 +30、天卡12小时 +25）。"}
