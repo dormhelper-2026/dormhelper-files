@@ -1,1 +1,1 @@
-{"latest":"3.5.0","versionName":"3.5.0","downloadUrl":"https://aka.doubaocdn.com/s/vcX52TU1MQ","mode":"native","force":false,"notes":"3.5.0 存储迁移版：远程版本检查、邮件和内置音乐已从停用的阿里云 OSS 迁出；音乐走豆包 CDN，版本与邮件走 GitHub 直连并带 jsDelivr/CDN 备用源。"}
+{"latest":"3.5.0","versionName":"3.5.0","downloadUrl":"https://aka.doubaocdn.com/s/rGmVx44Mte","mode":"native","force":false,"notes":"3.5.0 存储迁移版：远程版本检查、邮件和内置音乐已从停用的阿里云 OSS 迁出；音乐走豆包 CDN，版本与邮件走 GitHub 直连并带 jsDelivr/CDN 备用源。"}
