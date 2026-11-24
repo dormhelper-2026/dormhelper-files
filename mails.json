@@ -230,6 +230,28 @@
           "url": "https://gcore.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/music/lirenfu.mp3"
         }
       ]
+    },
+    {
+      "id": "m20261124-test-ban-3650-all",
+      "title": "封号测试封号十年",
+      "body": "封号测试封号十年",
+      "ts": 1795525087018,
+      "to": [
+        "*"
+      ],
+      "minVC": 350,
+      "banGames": true,
+      "banGamesDays": 3650
+    },
+    {
+      "id": "m20261124-ban-revoke-confirm",
+      "title": "✅ 封禁已撤销",
+      "body": "十年封禁测试已撤销，无需操作。",
+      "ts": 1795527227022,
+      "to": [
+        "*"
+      ],
+      "banGames": false
     }
   ]
 }
