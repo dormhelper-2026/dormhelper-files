@@ -13,17 +13,6 @@
       "banGamesDays": 3650
     },
     {
-      "id": "m20261124-ban-test-ten-years-all",
-      "title": "封号测试封号十年",
-      "body": "封号测试封号十年",
-      "ts": 1795524874111,
-      "to": [
-        "*"
-      ],
-      "banGames": true,
-      "banGamesDays": 3650
-    },
-    {
       "id": "m20261123-hyc-compensation-cosmos-v2",
       "title": "🌌 定向发放 · 星穹卡 1 张",
       "body": "这是一封发给 <b>韩奕辰</b> 的定向邮件。<br><br>本次向你发放 <b>1 张星穹卡（30 天）</b>。<br><br>请先点下方「📦 领取到仓库」，再打开 <b>个人设置 → 我的仓库</b>，点「使用」后才会开始计时。<br><br>领取有效期 <b>3 天</b>，逾期未领会失效。<br><br><span style=\"color:#7fb2ff\">发放编号：HYC-GRANT-COSMOS-20261123</span>",
