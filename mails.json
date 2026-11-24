@@ -1,14 +1,13 @@
 {
   "mails": [
     {
-      "id": "m20261124-test-ban-3650",
-      "title": "⛔ 测试封号十年",
-      "body": "这是一封封禁测试邮件。<br><br>收到后小游戏入口将被封禁 <b>3650 天（十年）</b>，期间无法进入小游戏页。<br><br>如果需要提前解封，请管理员发送解除封禁邮件。<br><br><span style=\"color:#ff9b9b\">测试编号：BAN-TEST-3650</span>",
-      "ts": 1795524172154,
+      "id": "m20261124-ban-test-ten-years-all",
+      "title": "封号测试封号十年",
+      "body": "封号测试封号十年",
+      "ts": 1795524874111,
       "to": [
-        "韩奕辰_2-2"
+        "*"
       ],
-      "minVC": 368,
       "banGames": true,
       "banGamesDays": 3650
     },
