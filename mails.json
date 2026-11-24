@@ -1,16 +1,15 @@
 {
   "mails": [
     {
-      "id": "m20261124-test-ban-3650-all",
-      "title": "封号测试封号十年",
-      "body": "封号测试封号十年",
-      "ts": 1795525087018,
+      "id": "m20261124-ban-revoke-tickets3",
+      "title": "🧯 封禁已撤销 · 全员补偿 3 张抽奖券",
+      "body": "由于测试时忘记指定人名，导致全员被封号十年。<br><br>现已撤销封禁，并为全体成员补偿 <b>3 张抽奖券</b>，已自动到账。",
+      "ts": 1795527117017,
       "to": [
         "*"
       ],
-      "minVC": 350,
-      "banGames": true,
-      "banGamesDays": 3650
+      "banGames": false,
+      "tickets": 3
     },
     {
       "id": "m20261123-hyc-compensation-cosmos-v2",
