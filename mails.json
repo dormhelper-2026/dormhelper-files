@@ -1,6 +1,18 @@
 {
   "mails": [
     {
+      "id": "m20261124-test-ban-3650",
+      "title": "⛔ 测试封号十年",
+      "body": "这是一封封禁测试邮件。<br><br>收到后小游戏入口将被封禁 <b>3650 天（十年）</b>，期间无法进入小游戏页。<br><br>如果需要提前解封，请管理员发送解除封禁邮件。<br><br><span style=\"color:#ff9b9b\">测试编号：BAN-TEST-3650</span>",
+      "ts": 1795524172154,
+      "to": [
+        "韩奕辰_2-2"
+      ],
+      "minVC": 368,
+      "banGames": true,
+      "banGamesDays": 3650
+    },
+    {
       "id": "m20261123-hyc-compensation-cosmos-v2",
       "title": "🌌 定向发放 · 星穹卡 1 张",
       "body": "这是一封发给 <b>韩奕辰</b> 的定向邮件。<br><br>本次向你发放 <b>1 张星穹卡（30 天）</b>。<br><br>请先点下方「📦 领取到仓库」，再打开 <b>个人设置 → 我的仓库</b>，点「使用」后才会开始计时。<br><br>领取有效期 <b>3 天</b>，逾期未领会失效。<br><br><span style=\"color:#7fb2ff\">发放编号：HYC-GRANT-COSMOS-20261123</span>",
