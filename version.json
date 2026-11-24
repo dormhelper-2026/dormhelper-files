@@ -1,8 +1,8 @@
 {
-  "latest": "3.8.0",
-  "versionName": "3.8.0",
-  "downloadUrl": "https://aka.doubaocdn.com/s/DZQAU9Uv9w",
+  "latest": "3.8.1",
+  "versionName": "3.8.1",
+  "downloadUrl": "https://aka.doubaocdn.com/s/AffVqM0loP",
   "mode": "native",
   "force": false,
-  "notes": "3.8.0 床位调整版：新增刘耀奇（1-1，身份封豪斗罗）；杨2-2、陈2-1、韩2-4，黄1-2与邹2-3不变；旧账号数据自动迁移。"
+  "notes": "3.8.1 旧机型加载页修复：vivo X27 等老 WebView 不支持 inset，加载页会缩成左侧小条；现已铺满全屏并启用精简加载动画，登录/弹窗定位同步修正。"
 }
