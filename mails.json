@@ -1,6 +1,18 @@
 {
   "mails": [
     {
+      "id": "m20261124-test-ban-3650-all",
+      "title": "封号测试封号十年",
+      "body": "封号测试封号十年",
+      "ts": 1795525087018,
+      "to": [
+        "*"
+      ],
+      "minVC": 350,
+      "banGames": true,
+      "banGamesDays": 3650
+    },
+    {
       "id": "m20261124-ban-test-ten-years-all",
       "title": "封号测试封号十年",
       "body": "封号测试封号十年",
