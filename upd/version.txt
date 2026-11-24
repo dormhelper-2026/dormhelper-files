@@ -1,8 +1,8 @@
 {
-  "latest": "3.8.1",
-  "versionName": "3.8.1",
-  "downloadUrl": "https://aka.doubaocdn.com/s/AffVqM0loP",
+  "latest": "3.8.2",
+  "versionName": "3.8.2",
+  "downloadUrl": "https://aka.doubaocdn.com/s/VL3XZ8KJWn",
   "mode": "native",
   "force": false,
-  "notes": "3.8.1 旧机型加载页修复：vivo X27 等老 WebView 不支持 inset，加载页会缩成左侧小条；现已铺满全屏并启用精简加载动画，登录/弹窗定位同步修正。"
+  "notes": "3.8.2 小游戏旧机型兼容：vivo X27 等老 WebView 不支持 aspect-ratio，导致 2048、记忆翻牌、国际象棋、军棋、消消乐棋盘被压扁/空白，现已按实际宽度补高度并加 CSS 兜底；同时修复消消乐开启防重置后首次进入棋盘为空的问题。"
 }
