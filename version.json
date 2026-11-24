@@ -1,8 +1,8 @@
 {
-  "latest": "3.8.2",
-  "versionName": "3.8.2",
-  "downloadUrl": "https://aka.doubaocdn.com/s/VL3XZ8KJWn",
+  "latest": "4.0.0",
+  "versionName": "4.0.0",
+  "downloadUrl": "https://aka.doubaocdn.com/s/M8CxcvVFDx",
   "mode": "native",
   "force": false,
-  "notes": "3.8.2 小游戏旧机型兼容：vivo X27 等老 WebView 不支持 aspect-ratio，导致 2048、记忆翻牌、国际象棋、军棋、消消乐棋盘被压扁/空白，现已按实际宽度补高度并加 CSS 兜底；同时修复消消乐开启防重置后首次进入棋盘为空的问题。"
+  "notes": "4.0.0 火器与神话版本：新增冲锋步兵、火枪兵、亡灵破城者、武装直升机、重装坦克、上苍之眼、湮灭者、天轨物质炮、天地为盘；双方向共用兵种池并按关卡解锁。人口上限提升至300，250关解除破晓者/号角兵限制，圣愈师800金币且同时最多3个；新增300-3000关BOSS冠位称号与敌方金币翻倍。"
 }
