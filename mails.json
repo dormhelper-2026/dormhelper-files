@@ -252,6 +252,38 @@
         "*"
       ],
       "banGames": false
+    },
+    {
+      "id": "m20261124-four-songs",
+      "title": "🎵 新歌邮件 · 四首完整版",
+      "body": "四首歌已加入邮件歌单，打开音乐页就能看到。<br><br><b>Sunshine Girl</b> · moumoon<br><b>Empty Love</b> · Lulleaux / Kid Princess<br><b>Cry For Me (feat. Ami)</b> · Michita<br><b>雨爱</b> · 杨丞琳<br><br>想离线听，点歌曲右侧的 <b>⬇ 下载到本地</b>，下载完断网也能播放。<br><br><span style=\"color:#7fb2ff\">本邮件无需领取，收到后自动生效。</span>",
+      "ts": 1795534872685,
+      "to": [
+        "*"
+      ],
+      "minVC": 356,
+      "musicTracks": [
+        {
+          "name": "Sunshine Girl",
+          "artist": "moumoon",
+          "url": "https://gcore.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/music/sunshine_girl.mp3"
+        },
+        {
+          "name": "Empty Love",
+          "artist": "Lulleaux / Kid Princess",
+          "url": "https://gcore.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/music/empty_love.mp3"
+        },
+        {
+          "name": "Cry For Me (feat. Ami)",
+          "artist": "Michita",
+          "url": "https://gcore.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/music/cry_for_me.mp3"
+        },
+        {
+          "name": "雨爱",
+          "artist": "杨丞琳",
+          "url": "https://gcore.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/music/yu_ai.mp3"
+        }
+      ]
     }
   ]
 }
