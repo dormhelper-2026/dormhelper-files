@@ -1,7 +1,7 @@
 {
   "latest": "4.2.0",
   "versionName": "4.2.0",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.2.0.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.2.0b.apk",
   "mode": "native",
   "force": false,
   "notes": "4.2.0 隐藏炼狱 AI：首次在任意棋类赢下 AI地狱后，后台静默提升为炼狱强度（界面仍显示地狱）；国际象棋新增王安全、两层搜杀与将死判定，五子棋/围棋/军棋同步强化。更新检测改为多源并行择优，修复旧缓存版本误判与重复更新弹窗，弱网单源超时不再卡住检查。"
