@@ -1,8 +1,8 @@
 {
-  "latest": "4.3.5",
-  "versionName": "4.3.5",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.5.apk",
+  "latest": "4.3.6",
+  "versionName": "4.3.6",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.6.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.3.5：八卦阵转速改为 60 秒平滑爬升，最高 180°/s；翻转改为级联，外圈先起、每 1.2 秒逐层跟进直到太极，短暂正常旋转后再从太极向外逐层翻转；翻转速度最高提升到 180°/s，保留 4.3.3 的预渲染与 30fps 性能优化。"
+  "notes": "4.3.6：修复火柴人战争通关/失守弹窗按钮被画布裁剪、点不到的问题；弹层改为全屏显示，长文案区域可滚动，底部「进入下一关」和「存档码」按钮始终可见。保留 4.3.5 的阶梯加速与级联翻转。"
 }
