@@ -1,8 +1,8 @@
 {
-  "latest": "4.3.4",
-  "versionName": "4.3.4",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.4.apk",
+  "latest": "4.3.5",
+  "versionName": "4.3.5",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.5.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.3.4：中央太极开始持续旋转，阴阳鱼与黑白面同步转动；外圈五层阵盘增加 Y 轴翻面，按各自节奏错峰依次翻转；保留 4.3.3 的静态底图缓存与 30fps 性能优化。"
+  "notes": "4.3.5：八卦阵转速改为 60 秒平滑爬升，最高 180°/s；翻转改为级联，外圈先起、每 1.2 秒逐层跟进直到太极，短暂正常旋转后再从太极向外逐层翻转；翻转速度最高提升到 180°/s，保留 4.3.3 的预渲染与 30fps 性能优化。"
 }
