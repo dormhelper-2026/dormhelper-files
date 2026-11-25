@@ -1,8 +1,8 @@
 {
-  "latest": "4.0.1",
-  "versionName": "4.0.1",
-  "downloadUrl": "https://aka.doubaocdn.com/s/JLmNZPaW4p",
+  "latest": "4.1.0",
+  "versionName": "4.1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.1.0.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.0.1 模型与破城者修复：九种新单位不再复用士兵建模，分别绘制冲锋枪兵、火焰喷射兵、亡灵巨锤手、直升机、坦克、圣光眼、黑洞湮灭者、轨道炮与天地棋盘；修复亡灵破城者眩晕结束后仍原地不动的问题，使其恢复正常推进与重新索敌。"
+  "notes": "4.1.0 大更新：暗影者改为阵亡时发动暗影一斩；至尊月卡/星穹卡有效期内解锁全部兵种，到期自动恢复关卡限制；商店始终显示全部兵种，未解锁置灰、点击无效且不扣金币；贪吃蛇点画布任意位置唤出摇杆拖动；修复 2D 我的世界横屏无法拆/放方块、摇杆方向错位，并加宽横屏操作区；内置歌单新增《甲乙丙丁》《琵琶曲》《梦回还》《人间白首》，九首内置歌改用长期直链。"
 }
