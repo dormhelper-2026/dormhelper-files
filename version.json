@@ -1,8 +1,8 @@
 {
-  "latest": "4.3.0",
-  "versionName": "4.3.0",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.0.apk",
+  "latest": "4.3.1",
+  "versionName": "4.3.1",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.1.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.3.0 八卦阵主题：全屏灰雾阵盘与多层反向旋转、中心太极翻转、专属边框/灵动岛/悬浮球/聊天信息/主题 UI；加载页双鱼合并→阵盘层层展开转一圈，版本检测未完成会继续转；主题 500 星币永久解锁，并发放 5 分钟体验卡邮件。"
+  "notes": "4.3.1 修复本地更新安装：下载完成后自动拉起系统安装器，不再第一次提示“安装包不存在”；其余八卦阵全屏主题、500 星币解锁与 5 分钟体验卡不变。"
 }
