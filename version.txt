@@ -1,8 +1,8 @@
 {
-  "latest": "4.1.2",
-  "versionName": "4.1.2",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.1.2.apk",
+  "latest": "4.1.3",
+  "versionName": "4.1.3",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.1.3.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.1.2 音乐修复：远程歌曲加载失败或超时会自动切换备用音源；播放失败不再静默，会提示并停止；点击歌单恢复同步播放，避免被浏览器自动播放限制拦截；《甲乙丙丁》《梦回还》《人间白首》转为 128kbps CBR，减小体积、提升弱网加载成功率；下载歌曲同样支持备用音源。"
+  "notes": "4.1.3 更新流程优化：加载页最后自动检测版本，检测完成或失败后才会进入应用，检测失败会提示“检测版本失败”；发现新版本后可选择本地下载或浏览器下载；非强制更新保留“暂不更新”，强制更新只显示两种下载方式；本地下载失败会提示并自动跳转浏览器下载；本地下载完成自动拉起系统安装界面。"
 }
