@@ -1,8 +1,8 @@
 {
-  "latest": "4.1.1",
-  "versionName": "4.1.1",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.1.1.apk",
+  "latest": "4.1.2",
+  "versionName": "4.1.2",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.1.2.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.1.1 空中单位修复：武装直升机、上苍之眼、天轨物质炮现在会正常升空；湮灭者带入下一关后也会重新飞空，不再贴地行走；天轨物质炮改为先蓄能发射一束天降激光，再结算 500 范围伤害。"
+  "notes": "4.1.2 音乐修复：远程歌曲加载失败或超时会自动切换备用音源；播放失败不再静默，会提示并停止；点击歌单恢复同步播放，避免被浏览器自动播放限制拦截；《甲乙丙丁》《梦回还》《人间白首》转为 128kbps CBR，减小体积、提升弱网加载成功率；下载歌曲同样支持备用音源。"
 }
