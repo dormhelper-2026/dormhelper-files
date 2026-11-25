@@ -1,8 +1,8 @@
 {
-  "latest": "4.3.3",
-  "versionName": "4.3.3",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.3.apk",
+  "latest": "4.3.4",
+  "versionName": "4.3.4",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.4.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.3.3：八卦阵全屏背景性能优化，环形刻度与文字改为预渲染缓存，去掉高开销实时模糊，背景限帧 30fps；页面滑动、切页和返回更跟手，画面效果保持原样。邮件与抽奖沿用 4.3.2 功能。"
+  "notes": "4.3.4：中央太极开始持续旋转，阴阳鱼与黑白面同步转动；外圈五层阵盘增加 Y 轴翻面，按各自节奏错峰依次翻转；保留 4.3.3 的静态底图缓存与 30fps 性能优化。"
 }
