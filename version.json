@@ -1,8 +1,8 @@
 {
-  "latest": "4.3.1",
-  "versionName": "4.3.1",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.1.apk",
+  "latest": "4.3.2",
+  "versionName": "4.3.2",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.2.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.3.1 修复本地更新安装：下载完成后自动拉起系统安装器，不再第一次提示“安装包不存在”；其余八卦阵全屏主题、500 星币解锁与 5 分钟体验卡不变。"
+  "notes": "4.3.2：邮件新增刷新/一键领取/一键删除；抽奖升级 27 档奖池、十连抽、跳过动画、取消抽奖确认，100 抽保底必中星穹卡月；新增全付费永久主题奖品。"
 }
