@@ -1,8 +1,8 @@
 {
-  "latest": "4.1.3",
-  "versionName": "4.1.3",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.1.3.apk",
+  "latest": "4.1.4",
+  "versionName": "4.1.4",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.1.4.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.1.3 更新流程优化：加载页最后自动检测版本，检测完成或失败后才会进入应用，检测失败会提示“检测版本失败”；发现新版本后可选择本地下载或浏览器下载；非强制更新保留“暂不更新”，强制更新只显示两种下载方式；本地下载失败会提示并自动跳转浏览器下载；本地下载完成自动拉起系统安装界面。"
+  "notes": "4.1.4 重音修复：切歌或点播时统一销毁上一首歌的所有音频实例，包括音源回退产生的候选实例；快速连续点歌、备用音源切换、后台暂停恢复不再出现同一首歌两个时间点叠加播放；同时保留 4.1.3 的更新流程优化。"
 }
