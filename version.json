@@ -1,8 +1,8 @@
 {
-  "latest": "4.1.0",
-  "versionName": "4.1.0",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.1.0.apk",
+  "latest": "4.1.1",
+  "versionName": "4.1.1",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.1.1.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.1.0 大更新：暗影者改为阵亡时发动暗影一斩；至尊月卡/星穹卡有效期内解锁全部兵种，到期自动恢复关卡限制；商店始终显示全部兵种，未解锁置灰、点击无效且不扣金币；贪吃蛇点画布任意位置唤出摇杆拖动；修复 2D 我的世界横屏无法拆/放方块、摇杆方向错位，并加宽横屏操作区；内置歌单新增《甲乙丙丁》《琵琶曲》《梦回还》《人间白首》，九首内置歌改用长期直链。"
+  "notes": "4.1.1 空中单位修复：武装直升机、上苍之眼、天轨物质炮现在会正常升空；湮灭者带入下一关后也会重新飞空，不再贴地行走；天轨物质炮改为先蓄能发射一束天降激光，再结算 500 范围伤害。"
 }
