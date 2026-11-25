@@ -1,8 +1,8 @@
 {
-  "latest": "4.2.1",
-  "versionName": "4.2.1",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.2.1.apk",
+  "latest": "4.3.0",
+  "versionName": "4.3.0",
+  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.0.apk",
   "mode": "native",
   "force": false,
-  "notes": "4.2.1 炼狱强化：赢下 AI地狱后后台静默切炼狱，五子棋棋型识别/双威胁、国际象棋三层搜杀、围棋提子救棋全面强化；更新检测改为多源并行择优，旧缓存与单源慢请求不再误判或卡加载。"
+  "notes": "4.3.0 八卦阵主题：全屏灰雾阵盘与多层反向旋转、中心太极翻转、专属边框/灵动岛/悬浮球/聊天信息/主题 UI；加载页双鱼合并→阵盘层层展开转一圈，版本检测未完成会继续转；主题 500 星币永久解锁，并发放 5 分钟体验卡邮件。"
 }
