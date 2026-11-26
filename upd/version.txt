@@ -1,13 +1,13 @@
 {
-  "latest": "4.3.7",
-  "versionName": "4.3.7",
-  "downloadUrl": "https://aka.doubaocdn.com/s/gVHGUCkWla",
+  "latest": "4.3.8",
+  "versionName": "4.3.8",
+  "downloadUrl": "https://aka.doubaocdn.com/s/8sxDAO4Pdh",
   "urls": [
-    "https://aka.doubaocdn.com/s/gVHGUCkWla",
-    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.3.7.apk",
-    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.7.apk"
+    "https://aka.doubaocdn.com/s/8sxDAO4Pdh",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.3.8.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.8.apk"
   ],
   "mode": "native",
   "force": false,
-  "notes": "4.3.7：更新下载加速，安装包改走国内 CDN，优先字节 CDN，失败自动切 jsDelivr / GitHub；本地下载显示实时进度和已下载大小，连接 7 秒几乎没有进展会自动换源，避免卡在慢源十几分钟。"
+  "notes": "4.3.8：新增「华容道」小游戏，含三国版与数字版；每种版本都有初级、中级、高级、顶级四档难度，支持计时、步数、悔棋、最佳纪录和通关弹层。安装包仍走国内 CDN 多源下载，更新速度保持上一版水准。"
 }
