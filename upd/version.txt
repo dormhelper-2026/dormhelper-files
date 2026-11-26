@@ -1,8 +1,13 @@
 {
-  "latest": "4.3.6",
-  "versionName": "4.3.6",
-  "downloadUrl": "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.6.apk",
+  "latest": "4.3.7",
+  "versionName": "4.3.7",
+  "downloadUrl": "https://aka.doubaocdn.com/s/Rpvc55A8oX",
+  "urls": [
+    "https://aka.doubaocdn.com/s/Rpvc55A8oX",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.3.7.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.7.apk"
+  ],
   "mode": "native",
   "force": false,
-  "notes": "4.3.6：修复火柴人战争通关/失守弹窗按钮被画布裁剪、点不到的问题；弹层改为全屏显示，长文案区域可滚动，底部「进入下一关」和「存档码」按钮始终可见。保留 4.3.5 的阶梯加速与级联翻转。"
+  "notes": "4.3.7：更新下载加速，安装包改走国内 CDN，优先字节 CDN，失败自动切 jsDelivr / GitHub；本地下载显示实时进度和已下载大小，连接 7 秒几乎没有进展会自动换源，避免卡在慢源十几分钟。"
 }
