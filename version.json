@@ -1,13 +1,13 @@
 {
-  "latest": "4.4.6",
-  "versionName": "4.4.6",
-  "downloadUrl": "https://aka.doubaocdn.com/s/61Eo8sBAZa",
+  "latest": "4.4.7",
+  "versionName": "4.4.7",
+  "downloadUrl": "https://aka.doubaocdn.com/s/MObuRNTMfJ",
   "urls": [
-    "https://aka.doubaocdn.com/s/61Eo8sBAZa",
-    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.6.apk",
-    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.6.apk"
+    "https://aka.doubaocdn.com/s/MObuRNTMfJ",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.7.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.7.apk"
   ],
   "mode": "native",
   "force": false,
-  "notes": "4.4.6：表单/回执超过 14 天自动清理，节省云端条数；更新改为不强制，可自行选择。"
+  "notes": "4.4.7：表单定义被清理后，回执仍按题号显示答案，不再只剩“已删除的表单”。"
 }
