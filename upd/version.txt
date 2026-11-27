@@ -1,13 +1,13 @@
 {
-  "latest": "4.4.0",
-  "versionName": "4.4.0",
-  "downloadUrl": "https://aka.doubaocdn.com/s/uaNEt9AAM5",
+  "latest": "4.4.1",
+  "versionName": "4.4.1",
+  "downloadUrl": "https://aka.doubaocdn.com/s/sb5ZkMSaQ2",
   "urls": [
-    "https://aka.doubaocdn.com/s/uaNEt9AAM5",
-    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.0.apk",
-    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.0.apk"
+    "https://aka.doubaocdn.com/s/sb5ZkMSaQ2",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.1.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.1.apk"
   ],
   "mode": "native",
   "force": false,
-  "notes": "4.4.0：邮件里新增「表单邮件」。管理员可以发带题目的邮件，室友填写提交后，管理员账号的邮件和回执箱会自动收到；支持单行文字、多行文字和单选，带截止时间，回执可一键复制。"
+  "notes": "4.4.1：表单邮件支持提交奖励。管理员可自定义星币和抽奖券数量，室友首次提交后自动到账并提示；修改提交不会重复发奖。"
 }
