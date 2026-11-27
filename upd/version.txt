@@ -1,13 +1,13 @@
 {
-  "latest": "4.4.5",
-  "versionName": "4.4.5",
-  "downloadUrl": "https://aka.doubaocdn.com/s/t1syZCO3WH",
+  "latest": "4.4.6",
+  "versionName": "4.4.6",
+  "downloadUrl": "https://aka.doubaocdn.com/s/61Eo8sBAZa",
   "urls": [
-    "https://aka.doubaocdn.com/s/t1syZCO3WH",
-    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.5.apk",
-    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.5.apk"
+    "https://aka.doubaocdn.com/s/61Eo8sBAZa",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.6.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.6.apk"
   ],
   "mode": "native",
-  "force": true,
-  "notes": "4.4.5：管理员改密会加密同步到对方已登录设备；管理员入口密码更新。继续强制更新。"
+  "force": false,
+  "notes": "4.4.6：表单/回执超过 14 天自动清理，节省云端条数；更新改为不强制，可自行选择。"
 }
