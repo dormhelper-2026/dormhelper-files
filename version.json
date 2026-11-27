@@ -1,13 +1,13 @@
 {
-  "latest": "4.3.9",
-  "versionName": "4.3.9",
-  "downloadUrl": "https://aka.doubaocdn.com/s/IZ0KT3B97g",
+  "latest": "4.4.0",
+  "versionName": "4.4.0",
+  "downloadUrl": "https://aka.doubaocdn.com/s/uaNEt9AAM5",
   "urls": [
-    "https://aka.doubaocdn.com/s/IZ0KT3B97g",
-    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.3.9.apk",
-    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.3.9.apk"
+    "https://aka.doubaocdn.com/s/uaNEt9AAM5",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.0.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.0.apk"
   ],
   "mode": "native",
   "force": false,
-  "notes": "4.3.9：音乐改为 CDN 优先多源，播放中卡住会自动带进度换源，网络不通时自动切氛围乐，并修掉切歌时合成器旧音符叠在歌上的杂音；登录码改用压缩格式，普通账号约 400 字，最长压到 1200 字以内，旧版登录码仍能导入。"
+  "notes": "4.4.0：邮件里新增「表单邮件」。管理员可以发带题目的邮件，室友填写提交后，管理员账号的邮件和回执箱会自动收到；支持单行文字、多行文字和单选，带截止时间，回执可一键复制。"
 }
