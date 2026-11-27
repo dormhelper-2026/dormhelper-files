@@ -1,13 +1,13 @@
 {
-  "latest": "4.4.1",
-  "versionName": "4.4.1",
-  "downloadUrl": "https://aka.doubaocdn.com/s/sb5ZkMSaQ2",
+  "latest": "4.4.2",
+  "versionName": "4.4.2",
+  "downloadUrl": "https://aka.doubaocdn.com/s/L94vmEwEO6",
   "urls": [
-    "https://aka.doubaocdn.com/s/sb5ZkMSaQ2",
-    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.1.apk",
-    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.1.apk"
+    "https://aka.doubaocdn.com/s/L94vmEwEO6",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.2.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.2.apk"
   ],
   "mode": "native",
   "force": true,
-  "notes": "4.4.1：表单邮件支持提交奖励。管理员可自定义星币和抽奖券数量，室友首次提交后自动到账并提示；修改提交不会重复发奖。本次为强制更新。"
+  "notes": "4.4.2：表单邮件支持指定发放，管理员可只发给选中的室友；带奖励的表单继续支持星币/抽奖券，首次提交自动到账。本次为强制更新。"
 }
