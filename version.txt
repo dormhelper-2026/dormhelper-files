@@ -1,13 +1,13 @@
 {
-  "latest": "4.4.4",
-  "versionName": "4.4.4",
-  "downloadUrl": "https://aka.doubaocdn.com/s/FxfcLs9Vgl",
+  "latest": "4.4.5",
+  "versionName": "4.4.5",
+  "downloadUrl": "https://aka.doubaocdn.com/s/t1syZCO3WH",
   "urls": [
-    "https://aka.doubaocdn.com/s/FxfcLs9Vgl",
-    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.4.apk",
-    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.4.apk"
+    "https://aka.doubaocdn.com/s/t1syZCO3WH",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.5.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.5.apk"
   ],
   "mode": "native",
   "force": true,
-  "notes": "4.4.4：管理员私钥改为用管理员密码加密，并备份到云端。换手机后输入同一个管理员密码即可恢复查看之前上报的密码。继续强制更新。"
+  "notes": "4.4.5：管理员改密会加密同步到对方已登录设备；管理员入口密码更新。继续强制更新。"
 }
