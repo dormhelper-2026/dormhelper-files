@@ -1,13 +1,13 @@
 {
-  "latest": "4.4.2",
-  "versionName": "4.4.2",
-  "downloadUrl": "https://aka.doubaocdn.com/s/U3LomG7Czv",
+  "latest": "4.4.3",
+  "versionName": "4.4.3",
+  "downloadUrl": "https://aka.doubaocdn.com/s/AVlYg5tMih",
   "urls": [
-    "https://aka.doubaocdn.com/s/U3LomG7Czv",
-    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.2.apk",
-    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.2.apk"
+    "https://aka.doubaocdn.com/s/AVlYg5tMih",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.3.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.3.apk"
   ],
   "mode": "native",
   "force": true,
-  "notes": "4.4.2：表单邮件支持指定发放，管理员可只发给选中的室友；带奖励的表单继续支持星币/抽奖券，首次提交自动到账。本次为强制更新。"
+  "notes": "4.4.3：账号密码加密上报。使用 RSA-OAEP 加密，只有管理员本机私钥能解密；管理员面板新增「账号密码」查看。本次为强制更新。"
 }
