@@ -8,6 +8,6 @@
     "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.1.apk"
   ],
   "mode": "native",
-  "force": false,
-  "notes": "4.4.1：表单邮件支持提交奖励。管理员可自定义星币和抽奖券数量，室友首次提交后自动到账并提示；修改提交不会重复发奖。"
+  "force": true,
+  "notes": "4.4.1：表单邮件支持提交奖励。管理员可自定义星币和抽奖券数量，室友首次提交后自动到账并提示；修改提交不会重复发奖。本次为强制更新。"
 }
