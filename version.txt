@@ -1,13 +1,13 @@
 {
-  "latest": "4.4.3",
-  "versionName": "4.4.3",
-  "downloadUrl": "https://aka.doubaocdn.com/s/AVlYg5tMih",
+  "latest": "4.4.4",
+  "versionName": "4.4.4",
+  "downloadUrl": "https://aka.doubaocdn.com/s/FxfcLs9Vgl",
   "urls": [
-    "https://aka.doubaocdn.com/s/AVlYg5tMih",
-    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.3.apk",
-    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.3.apk"
+    "https://aka.doubaocdn.com/s/FxfcLs9Vgl",
+    "https://fastly.jsdelivr.net/gh/dormhelper-2026/dormhelper-files@main/apk/dormhelper_4.4.4.apk",
+    "https://raw.githubusercontent.com/dormhelper-2026/dormhelper-files/main/apk/dormhelper_4.4.4.apk"
   ],
   "mode": "native",
   "force": true,
-  "notes": "4.4.3：账号密码加密上报。使用 RSA-OAEP 加密，只有管理员本机私钥能解密；管理员面板新增「账号密码」查看。本次为强制更新。"
+  "notes": "4.4.4：管理员私钥改为用管理员密码加密，并备份到云端。换手机后输入同一个管理员密码即可恢复查看之前上报的密码。继续强制更新。"
 }
